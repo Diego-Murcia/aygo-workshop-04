@@ -76,3 +76,4 @@ Each resource will be represented using JSON for simplicity and standardization:
 
 ## 5. Microservice Architecture Design
 ![Architecture](./docs/images/architecture.png) 
+
